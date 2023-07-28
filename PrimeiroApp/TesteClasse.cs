@@ -9,6 +9,11 @@ namespace PrimeiroApp
     internal class TesteClasse
     {
         // Mais uma alteração!!! <3
+
+
+
+        // Mais um novo comentário
+        // '-'
     }
 
 }
